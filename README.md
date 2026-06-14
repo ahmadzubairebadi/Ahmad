@@ -1,26 +1,41 @@
 <h1 align="center">Hi 👋, I'm Ahmad Zubair</h1>
-<h3 align="center">Web & Mobile App Developer | Computer Science Graduate</h3>
+
+<h3 align="center">
+  Web & Mobile App Developer | Computer Science Graduate
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,firebase,python,javascript" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;React+Developer;Full-Stack+Engineer;UI%2FUX+Enthusiast;Always+Learning+New+Tech" />
+</p>
+
+---
+
+## ⚡ Tech Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 💻 Passionate Web & Mobile App Developer  
+- 💻 Web & Mobile App Developer  
 - 🎓 Computer Science Graduate  
-- 🌍 Building real-world full-stack applications  
-- 🎨 Focused on UI/UX and clean design  
-- 🚀 Always learning new technologies  
+- 🌍 Building real-world full-stack systems  
+- 🎨 Passionate about UI/UX design  
+- 🚀 Always improving and learning  
 
 ---
 
 ## 🌐 Languages I Speak
 
 <p align="center">
-🇬🇧 English • 🇮🇷 Persian (Farsi) • 🇦🇫 Dari • 🇦🇫 Pashto • 🇵🇰 Urdu
+🇬🇧 English • 🇮🇷 Persian • 🇦🇫 Dari • 🇦🇫 Pashto • 🇵🇰 Urdu
 </p>
 
 ---
@@ -42,55 +57,61 @@
   <img src="https://skillicons.dev/icons?i=flutter,firebase" />
 </p>
 
-### 🎨 Tools
+### 🎨 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-
----
+## 📌 Featured Projects (Elite Cards)
 
 ### 🧑‍🎓 Student Portal System
-![Student Portal](https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80"/>
+</p>
 
-A full-stack system where students can view:
-- Attendance
-- Assignments
-- Schedules
-- Marks & Results
+Full-stack system for:
+- Attendance tracking  
+- Assignments  
+- Schedules  
+- Marks & results dashboard  
 
 ---
 
 ### 🕋 Hajj & Umrah Guide App
-![Hajj & Umrah](https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?auto=format&fit=crop&w=1200&q=80)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?auto=format&fit=crop&w=1200&q=80"/>
+</p>
 
-A mobile app that guides pilgrims with:
-- Step-by-step rituals
-- Maps of holy places in Makkah & Madinah
-- Travel instructions and reminders
+Mobile app for pilgrims:
+- Step-by-step rituals  
+- Makkah & Madinah maps  
+- Travel guidance  
 
 ---
 
 ### 👴 Old Care Center Website
-![Old Care](https://images.unsplash.com/photo-1576765607924-3f7b8410a787?auto=format&fit=crop&w=1200&q=80)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1576765607924-3f7b8410a787?auto=format&fit=crop&w=1200&q=80"/>
+</p>
 
-A platform for elderly care services including:
-- Health support info
-- Care resources
-- Family assistance system
+Elderly care platform:
+- Health information  
+- Care services  
+- Family support system  
 
 ---
 
 ### 🛒 E-Commerce Website
-![Ecommerce](https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?auto=format&fit=crop&w=1200&q=80)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?auto=format&fit=crop&w=1200&q=80"/>
+</p>
 
-A simple online store with:
-- Product browsing
-- Shopping interface
-- Clean UI (no login required)
+Simple online store:
+- Product browsing  
+- Clean UI  
+- No login system  
 
 ---
 
@@ -102,6 +123,14 @@ A simple online store with:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzubairebadi&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmadzubairebadi&theme=tokyonight&margin-w=10&no-frame=true"/>
 </p>
 
 ---
