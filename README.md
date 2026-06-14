@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmad Zubair</h1>
 
-<h3 align="center">Web & Mobile App Developer | Computer Science Graduate</h3>
+<h3 align="center">Web & Mobile App Developer | Computer Science Graduate| M.Sc. Cyber Security Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F5FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;React+Full+Stack+Engineer;Mobile+App+Developer;UI%2FUX+Designer;Always+Learning+New+Tech" />
