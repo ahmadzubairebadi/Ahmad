@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ahmad Zubair</h1>
 <h3 align="center">Web & Mobile App Developer | Computer Science Graduate</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,firebase,python,javascript" />
+</p>
+
 ---
 
 ## 💫 About Me
 
-- 💻 I am a passionate Web & Mobile App Developer  
+- 💻 Passionate Web & Mobile App Developer  
 - 🎓 Computer Science Graduate  
-- 🌍 I build real-world full-stack applications  
-- 🎨 Love UI/UX design and clean interfaces  
-- 🚀 Always learning and improving my skills  
+- 🌍 Building real-world full-stack applications  
+- 🎨 Focused on UI/UX and clean design  
+- 🚀 Always learning new technologies  
 
 ---
 
 ## 🌐 Languages I Speak
 
 <p align="center">
-  🇬🇧 English  
-  🇮🇷 Persian (Farsi)  
-  🇦🇫 Dari  
-  🇦🇫 Pashto  
-  🇵🇰 Urdu  
+🇬🇧 English • 🇮🇷 Persian (Farsi) • 🇦🇫 Dari • 🇦🇫 Pashto • 🇵🇰 Urdu
 </p>
 
 ---
@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,firebase" />
 </p>
 
-### 🎨 Tools & Design
+### 🎨 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 </p>
@@ -51,31 +51,46 @@
 
 ## 📌 Featured Projects
 
+---
+
 ### 🧑‍🎓 Student Portal System
 ![Student Portal](https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80)
 
-A system for students to check attendance, assignments, schedules, and results.
+A full-stack system where students can view:
+- Attendance
+- Assignments
+- Schedules
+- Marks & Results
 
 ---
 
 ### 🕋 Hajj & Umrah Guide App
-![Hajj](https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&w=1200&q=80)
+![Hajj & Umrah](https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?auto=format&fit=crop&w=1200&q=80)
 
-A mobile guide app for Hajj & Umrah rituals, maps, and instructions.
+A mobile app that guides pilgrims with:
+- Step-by-step rituals
+- Maps of holy places in Makkah & Madinah
+- Travel instructions and reminders
 
 ---
 
 ### 👴 Old Care Center Website
 ![Old Care](https://images.unsplash.com/photo-1576765607924-3f7b8410a787?auto=format&fit=crop&w=1200&q=80)
 
-A platform for elderly care services and support information.
+A platform for elderly care services including:
+- Health support info
+- Care resources
+- Family assistance system
 
 ---
 
 ### 🛒 E-Commerce Website
 ![Ecommerce](https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?auto=format&fit=crop&w=1200&q=80)
 
-A simple online store for browsing and selling products without login.
+A simple online store with:
+- Product browsing
+- Shopping interface
+- Clean UI (no login required)
 
 ---
 
@@ -94,7 +109,7 @@ A simple online store for browsing and selling products without login.
 ## 📫 Contact Me
 
 - 📧 Email: ebadiahmadzubair@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/ahmad-zubair-56803b351  
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmad-zubair-56803b351  
 - 🌍 GitHub: https://github.com/ahmadzubairebadi  
 
 ---
