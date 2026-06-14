@@ -1,48 +1,86 @@
+# 👋 Ahmad Zubair
 
-# Ahmad Zubair
+### 💻 Web & App Developer | Computer Science Graduate
 
-## About Me
+Welcome to my GitHub profile! I am a passionate developer focused on building modern, responsive, and real-world web & mobile applications.
 
-Computer Science graduate and Web Developer with experience in building modern web and mobile applications. Skilled in frontend and backend development, UI/UX design, and software development using various programming languages and frameworks.
+---
 
-## Skills
+## 🚀 About Me
+- 💡 Passionate about Web & Mobile Development  
+- 🎨 UI/UX Design experience (Figma, Sketch)  
+- ⚙️ Full Stack Development  
+- 🌍 Building real-world solutions  
+- 📚 Always learning new technologies  
 
-* Web Development
-* Mobile App Development
-* UI/UX Design (Figma, Sketch)
-* Frontend: HTML, CSS, JavaScript, React
-* Backend: Node.js
-* Programming Languages: C, C#, Python, Java, Dart
-* Flutter Development
-* Firebase Integration
+---
 
-## Projects
+## 🛠️ Skills
 
-### E-Commerce Website
+### 💻 Programming Languages
+C | C# | Python | Java | JavaScript | Dart  
 
-An online platform for showcasing and selling products with a responsive and user-friendly interface.
+### 🌐 Web Development
+HTML | CSS | JavaScript | React | Node.js  
 
-### Student Portal System
+### 📱 Mobile Development
+Flutter | Firebase  
+
+### 🎨 Design & Tools
+Figma | Sketch | Git | GitHub  
+
+---
+
+## 📌 My Projects
+
+---
+
+## 🧑‍🎓 Student Portal System
+![Student Portal](https://images.unsplash.com/photo-1523240795612-9a054b0db644)
 
 A portal that allows students to access attendance records, assignments, course schedules, and academic results.
 
-### Medical Learning Platform
+---
 
-A web-based platform where instructors can upload educational content and conduct virtual classes.
+## 🕋 Hajj & Umrah Guide App
+![Hajj Umrah](https://images.unsplash.com/photo-1564769662533-4f00a87b4056)
 
-### Hajj & Umrah Guide App
+A mobile application that provides step-by-step guidance for Hajj and Umrah, including rituals, maps, and essential travel information for pilgrims.
 
-A mobile application that provides step-by-step guidance for Hajj and Umrah, including rituals, maps, instructions, and essential travel information for pilgrims.
+---
 
-### Old Care Center Website
+## 👴 Old Care Center Website
+![Old Care](https://images.unsplash.com/photo-1576765607924-3f7b8410a787)
 
-A web platform designed for elderly care services, providing information about facilities, services, staff support, and contact options for families and caregivers.
-## Contact
+A web platform designed for elderly care services, providing information about facilities, services, staff support, and contact options for families.
 
-* GitHub: https://github.com/ahmadzubairebadi
-* LinkedIn: www.linkedin.com/in/ahmad-zubair-56803b351
-* Email: ebadiahmadzubair@gmail.com
+---
 
-## Goals
+## 🛒 E-Commerce Website
+![Ecommerce](https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a)
 
-Passionate about software development, cybersecurity, and creating solutions that improve user experience and productivity.
+A modern eCommerce website for showcasing and selling products online with product browsing and simple user experience (no login required).
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadzubairebadi&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzubairebadi&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Contact Me
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🌍 GitHub: https://github.com/ahmadzubairebadi  
+
+---
+
+## ⭐ Quote
+> "Code is not just logic — it's creativity turning ideas into reality."
