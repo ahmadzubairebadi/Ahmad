@@ -155,7 +155,7 @@ Simple online store:
 
 <!-- ================= CONTACT ================= -->
 
-## 💼 Hire Me
+## 💼
 
 I am available for:
 
